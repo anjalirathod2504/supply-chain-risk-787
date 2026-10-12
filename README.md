@@ -14,6 +14,10 @@ Analytical model for the **Boeing 787 Dreamliner** global supply chain, built fo
 
 ## Quick start
 
+**Easiest:** install the requirements, then run `python main.py`. It runs the whole project and prints where the results are.
+
+Step by step:
+
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
