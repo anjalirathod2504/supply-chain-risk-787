@@ -1,0 +1,11 @@
+package,failure_mode,effect,cause,severity,occurrence,detection
+Wing,Composite layup defect found late,Rework delays final assembly,Autoclave cure variation,9,4,6
+Wing,Ocean shipment delay,Line stoppage at FAL,Port congestion / Dreamlifter unavailability,8,4,3
+Forward fuselage (Sec 41),Supplier quality escape,Inspection hold and rework,Workforce turnover at supplier,8,6,5
+Center fuselage & horiz. stabilizer,Shimming non-conformance,Join delays,Tolerance stack-up,7,5,5
+Landing gear,Forging capacity shortfall,Delivery slip,Sub-tier forging bottleneck,8,5,4
+Engines (pair),Engine delivery late,Gliders parked awaiting engines,Sub-tier castings shortage,9,6,3
+Passenger doors,Seal part non-conformance,Rework at FAL,Sub-tier quality,5,4,4
+Center wing box,Tariff increase on imports,Unit cost increase,Trade policy change,6,5,2
+Raked wingtips,Single shipment damaged,Short-term shortage,Handling damage,4,3,3
+Aft fuselage,Internal capacity conflict,Schedule compression,Shared resources with other programs,6,4,4
